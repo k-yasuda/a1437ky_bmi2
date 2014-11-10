@@ -67,5 +67,5 @@ def oData(height,weight)
 
 		end
 end
-end
+iData()
 
